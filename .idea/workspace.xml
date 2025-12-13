@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e29bcec-5801-48a9-a3e4-a833451cf40f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JupyterProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/ssh_attacks.parquet" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/exploratoryDataAnalysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/exploratoryDataAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/exploratoryDataAnalysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/A.RUSSO/PycharmProjects/JupyterProject/data&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -79,11 +72,24 @@
       <option name="presentableId" value="Default" />
       <updated>1765443048943</updated>
       <workItem from="1765443050016" duration="2866000" />
-      <workItem from="1765445957871" duration="2142000" />
+      <workItem from="1765445957871" duration="7315000" />
+      <workItem from="1765556309199" duration="9038000" />
+      <workItem from="1765617356182" duration="9850000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/notebooks/exploratoryDataAnalysis.ipynb</url>
+          <line>89</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
