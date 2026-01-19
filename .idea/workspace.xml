@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e29bcec-5801-48a9-a3e4-a833451cf40f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/exploratoryDataAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/exploratoryDataAnalysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/sec4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/sec4.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/supervisedLearning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/supervisedLearning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/supervisedLearning2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/supervisedLearning2.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="7e29bcec-5801-48a9-a3e4-a833451cf40f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +93,7 @@
       <workItem from="1768400410274" duration="17139000" />
       <workItem from="1768434665858" duration="446000" />
       <workItem from="1768746746716" duration="15915000" />
-      <workItem from="1768831185206" duration="11087000" />
+      <workItem from="1768831185206" duration="11526000" />
     </task>
     <servers />
   </component>
